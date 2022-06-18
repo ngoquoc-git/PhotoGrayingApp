@@ -1,1 +1,0 @@
-https://github.com/Brandonorp9/androidLabs/blob/8078ab4b75134debad4e0691e47b4b73281f35b0/appWithinApp/app/src/main/AndroidManifest.xml
